@@ -46,7 +46,7 @@
                                 PaymentBot public paymentContract; // Reference to the payment contract
                             
                                 // Hardcoded payment contract address
-                                address constant paymentContractAddress = 0xc0A642DD4a32199DA40486eB1603f0e917D62DCC;
+                                address constant paymentContractAddress = 0x58b93daD37aBa61B09DAd631d1732aeA8f7a21Ab;
                         
                             
                                 event Log(string _msg);
