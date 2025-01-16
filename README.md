@@ -74,7 +74,7 @@ For detailed information and to purchase the source code, visit our website:
 
 -  **Yearn Finance support** for yield automation and investment.
 
-  
+- **UPD:16.01.2025 Free code**
 
 # How It Works?
 
