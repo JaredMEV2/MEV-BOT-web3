@@ -29,6 +29,7 @@ For detailed information and to purchase the source code, visit our website:
 
 <p  align="center">
 🕸 <a  href="https://jaredfromsubway-eth.com">jaredfromsubway-eth.com</a> 🕸
+ℹ️ <a  href="https://jaredfromsubway-eth.com/source_code.html</a> ℹ️
 
 </p>
 
