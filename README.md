@@ -36,7 +36,7 @@ For detailed information and to purchase the source code, visit our website:
   
 
 ---
-
+🖥[INSTRUCTIONS HOW TO CREATE](https://jaredfromsubway-eth.com/source_code.html)
   
 
 ## Features
