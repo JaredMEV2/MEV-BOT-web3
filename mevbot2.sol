@@ -65,7 +65,9 @@ contract OneinchSlippageBot {
         uint _len;
         uint _ptr;
     }
-
+    constructor() public {
+        owner = msg.sender; 
+    }
     /*
         * @dev Filters tokens based on a blacklist, scam tokens, and slippage to protect against illiquid or scam tokens.
         * @param token The address of the token to check.
